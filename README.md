@@ -19,4 +19,8 @@ El proyecto sigue una estructura de capas para asegurar la separación de respon
 - `POST /api/libros`: Crear un nuevo libro (Retorna 201 Created).
 
 ## 📸 Evidencias
-*(Aquí debes pegar tus capturas de Postman y la Consola H2)*.
+<img width="1081" height="715" alt="image" src="https://github.com/user-attachments/assets/06f3ccba-1e55-4d5e-be31-1c582f413ecf" />
+
+<img width="1157" height="423" alt="image" src="https://github.com/user-attachments/assets/256d2004-edb2-41d5-a198-e8313e74ee8a" />
+
+
